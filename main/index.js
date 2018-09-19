@@ -34,4 +34,5 @@ ipfsFile.add(buff).then((hash)=>{
     console.log(obj);
 }).catch((err)=>{
     console.log(err);
-})
+}
+)
